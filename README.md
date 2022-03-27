@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yong-xu-z
 - 👀 I’m interested in Java and C/C++
-- 🌱 I’m currently learning the Java Language
+- 🌱 I’m currently learning the C++ Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
